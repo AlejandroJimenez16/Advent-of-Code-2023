@@ -8,7 +8,7 @@ public class prueba2 {
     
     public static void main(String[] args) {
 
-        File archivo = new File("C:\\Users\\gabin\\OneDrive\\Escritorio\\Visual Studio_workspace\\adventOfCode\\2023\\Dia1\\Parte2\\adventoCode.txt");
+        File archivo = new File("C:\\Users\\gabin\\OneDrive\\Escritorio\\Visual Studio_workspace\\adventOfCode\\2023\\Dia1\\Parte2\\input.txt");
 
         try {
             BufferedReader buffr = new BufferedReader(new FileReader(archivo));
