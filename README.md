@@ -28,12 +28,12 @@ Para ejecutar las soluciones, sigue estos pasos:
    ```bash
    cd DiaX/ParteY
 
-  Reemplaza X con el número del día.
-  Reemplaza Y con el número de la parte (si existen varias partes).
+  .Reemplaza X con el número del día.
+  .Reemplaza Y con el número de la parte (si existen varias partes).
 
 3. **Compila y ejecuta la solución:**
    ```bash
    javac PruebaY.java
    java PruebaY
 
-  Reemplaza PruebaY.java por el nombre del archivo de la solución correspondiente.
+  .Reemplaza PruebaY.java por el nombre del archivo de la solución correspondiente.
