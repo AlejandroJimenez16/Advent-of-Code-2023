@@ -40,5 +40,7 @@ Para ejecutar las soluciones, sigue estos pasos:
 
 ## Estructura del proyecto
 
-```
-Advent-of-Code-2023/ ├── Dia1/ │ ├── Parte1/ │ │ ├── adventoCode.txt │ │ └── Prueba1.java │ ├── Parte2/ │ │ ├── adventoCode.txt │ │ └── Prueba1.java ├── Dia2/ │ ├── Parte1/ │ │ ├── adventoCode.txt │ │ └── Prueba1.java │ └── Parte2/ │ ├── adventoCode.txt │ └── Prueba1.java └── README.md
+``` Advent-of-Code-2023/ ├── Dia1/ │ ├── Parte1/ │ │ ├── adventoCode.txt │ │ └── Prueba1.java │ ├── Parte2/ │ │ ├── adventoCode.txt │ │ └── Prueba1.java ├── Dia2/ │ ├── Parte1/ │ │ ├── adventoCode.txt │ │ └── Prueba1.java │ └── Parte2/ │ ├── adventoCode.txt │ └── Prueba1.java └── README.md ```
+
+
+
