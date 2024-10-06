@@ -6,10 +6,8 @@ Bienvenido a mi repositorio de soluciones para Advent of Code 2023. Aquí encont
 
 - [Introducción](#introducción)
 - [Cómo ejecutar las soluciones](#cómo-ejecutar-las-soluciones)
-- [Estructura del proyecto](#estructura-del-proyecto)
 - [Lenguajes utilizados](#lenguajes-utilizados)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
+- [Estructura del proyecto](#estructura-del-proyecto)
 
 ## Introducción
 
