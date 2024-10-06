@@ -38,6 +38,10 @@ Para ejecutar las soluciones, sigue estos pasos:
 
   - Reemplaza PruebaY.java por el nombre del archivo de la solución correspondiente.
 
+## Lenguajes Utilizados
+
+- Java
+
 ## Estructura del proyecto
 
 ```
@@ -51,10 +55,6 @@ Advent-of-Code-2023/
 │   │   ├── prueba2.java
 └── README.md
 ```
-
-## Lenguajes Utilizados
-
-- Java
 
 
 
