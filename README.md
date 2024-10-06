@@ -52,6 +52,10 @@ Advent-of-Code-2023/
 └── README.md
 ```
 
+## Lenguajes Utilizados
+
+- Java
+
 
 
 
