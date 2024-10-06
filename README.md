@@ -43,6 +43,14 @@ Para ejecutar las soluciones, sigue estos pasos:
 ```
 Advent-of-Code-2023/
 ├── Dia1/
+│   ├── Parte1/
+│   │   ├── input.txt
+│   │   ├── prueba1.java
+│   ├── Parte2/
+│   │   ├── input.txt
+│   │   ├── prueba2.java
+└── README.md
+```
 
 
 
