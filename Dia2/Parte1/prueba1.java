@@ -8,7 +8,7 @@ public class prueba1 {
     
     public static void main(String[] args) {
         
-        File archivo = new File("2023/Dia2/Parte1/input.txt");
+        File archivo = new File("Dia2/Parte1/input.txt");
 
         try {
             BufferedReader buffr = new BufferedReader(new FileReader(archivo));
