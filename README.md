@@ -51,6 +51,13 @@ Advent-of-Code-2023/
 │   ├── Parte2/
 │   │   ├── input.txt
 │   │   ├── prueba2.java
+├── Dia2/
+│   ├── Parte1/
+│   │   ├── input.txt
+│   │   ├── prueba1.java
+│   ├── Parte2/
+│   │   ├── input.txt
+│   │   ├── prueba2.java
 └── README.md
 ```
 
